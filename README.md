@@ -27,7 +27,7 @@ With a strong background in Python, I enjoy applying various machine learning an
 - Version control: Git, GitHub
 
 ## Connect with Me
-- [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jeffrey-bernasor-666321240/)
+- [https://www.linkedin.com](https://www.linkedin.com/in/jeffrey-bernasor-666321240/)
 
 I'm always open to collaborating on exciting data science projects or discussing research opportunities. Feel free to reach out to me!
 
