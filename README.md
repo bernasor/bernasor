@@ -1,10 +1,10 @@
 # Hello, I'm [Jeffrey Bernasor] 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username.svg?style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-username.svg?style=social)](https://github.com/bernasor)
 
 ## About Me
 
-I'm a passionate software developer with a strong interest in [your areas of expertise]. With [number] years of experience, I have worked on a variety of projects, ranging from [mention a few highlights].
+I'm a passionate software developer with a strong interest in [Machine Learning]. With [2] years of experience, I have worked on a variety of projects, ranging from [mention a few highlights].
 
 I'm dedicated to writing clean, efficient, and maintainable code. I enjoy collaborating with others and continuously learning new technologies to enhance my skills.
 
