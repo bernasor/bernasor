@@ -1,35 +1,33 @@
-# Hello, I'm [Jeffrey Bernasor] 👋
+# Hi, I'm Jeffrey Bernasor] 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/bernasor.svg?style=social)](https://github.com/bernasor)
 
 ## About Me
 
-I'm a passionate software developer with a strong interest in [Machine Learning]. With [2] years of experience, I have worked on a variety of projects, ranging from [mention a few highlights].
+I'm a data science researcher specializing in image processing and market research. I have a keen interest in leveraging the power of data to extract meaningful insights and solve real-world problems.
 
-I'm dedicated to writing clean, efficient, and maintainable code. I enjoy collaborating with others and continuously learning new technologies to enhance my skills.
+With a strong background in Python, I enjoy applying various machine learning and deep learning techniques to tackle complex challenges. I am particularly passionate about image classification, object detection, and image generation.
 
-## Career Highlights
+## Education
 
-- [Company/Organization]: [Brief description of your role and accomplishments]
-- [Company/Organization]: [Brief description of your role and accomplishments]
-- [Company/Organization]: [Brief description of your role and accomplishments]
+- [B.S. in Data Science, Artificial Intelligence]: [University of Science and Technology of Southern Philippines]
 
-## Projects
+## Research Interests
 
-Here are some notable projects I have worked on:
-
-- [Project 1]: [Brief description or key features]
-- [Project 2]: [Brief description or key features]
-- [Project 3]: [Brief description or key features]
+- Image processing and computer vision
+- Machine learning and deep learning
+- Market research and consumer behavior analysis
 
 ## Skills
 
-- Programming languages: [Python]
+- Programming languages: Python
+- Machine learning frameworks: TensorFlow, PyTorch
+- Image processing libraries: OpenCV, PIL
+- Data analysis and visualization: pandas, NumPy, matplotlib, seaborn
+- Version control: Git, GitHub
 
 ## Connect with Me
-
-- [Github](https://github.com/bernasor)
 - [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jeffrey-bernasor-666321240/))
 
-Feel free to reach out to me for collaborations, job opportunities, or just to say hi!
+I'm always open to collaborating on exciting data science projects or discussing research opportunities. Feel free to reach out to me!
 
