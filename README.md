@@ -1,4 +1,4 @@
-# Hi, I'm Jeffrey Bernasor] 👋
+# Hi, I'm Jeffrey Bernasor 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/bernasor.svg?style=social)](https://github.com/bernasor)
 
